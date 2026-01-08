@@ -1,8 +1,8 @@
-Proactive Insights for Employee Well-being: Predicting Burnout with Machine Learning
+## Proactive Insights for Employee Well-being: Predicting Burnout with Machine Learning
 
-Capstone Project | NeuroWell Analytics
+# Capstone Project | NeuroWell Analytics
 
-Project Overview
+# Project Overview
 Employee burnout is a growing global concern, affecting productivity, engagement, and mental health in the workplace. This project, built for NeuroWell Analytics, applies machine learning techniques to predict employee burnout using historical workplace and well-being data.
 The goal is to help organizations take proactive action based on data-driven insights.
 
